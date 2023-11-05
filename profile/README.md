@@ -4,6 +4,8 @@ This is the public Github organization for the [CRNCH Rogues Gallery](https://cr
 
 ![CRNCH RG Overview](https://github.com/gt-crnch-rg/read-the-docs/blob/main/docs/figures/general/CCRI_RG_Overview_2023.png)
 
+_The Rogues Gallery testbed combines novel hardware or "rogues" with software, library, and training support for scientific researchers._
+
 ### Recent Tutorials
 
 * [SC23 SmartNICs](https://github.com/gt-crnch-rg/smartnic-tutorial-sc23) - Nov. 12th, 2023
