@@ -8,8 +8,8 @@ _The Rogues Gallery testbed combines novel hardware or "rogues" with software, l
 
 ### Recent Tutorials
 
+* [IPDPS26 SmartNICs](https://github.com/gt-crnch-rg/smartnic-tutorial-ipdps26) - May 25th, 2026
 * [SC25 SmartNICs](https://github.com/gt-crnch-rg/smartnic-tutorial-sc25) - Nov. 16th, 2025
-* [SC24 SmartNICs](https://github.com/gt-crnch-rg/smartnic-tutorial-sc24) - Nov. 17th, 2024
 * [MICRO 2024 Vortex GPGPU](https://vortex.cc.gatech.edu/micro2024/) - Nov. 3rd, 2024
 
 ### Key repositories
